@@ -1,9 +1,9 @@
 # Projeto-Blog-dos-Gatos
 
-<h1 align="center"> NLW #10 COPA </h1>
+<h1 align="center"> BLOG DOS GATOS </h1>
 
 <p align="center">
-Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido em parceria com o curso Explorer RocketSeat.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="CALENDARIO DA COPA" src="./assets/capa.png" width="100%">
+  <img alt="Blog dos Gatos" src="./assets/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,17 +28,24 @@ Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 
 ## 💻 Projeto
 
-O projeto Calendário da Copa é um projeto que mostra a data, o dia, o horário e os adversários no Brasil na primeira fase da copa.
+O projeto tem como objetivo construir um Blog para treinarmos HTML e CSS.
+
+No projeto trabalhamos com:
+- Mobile First: inicie o projeto deixando-o responsivo em telas menores para depois ajustar para uma versão desktop;
+- Unidade de medida flexível;
+- Grid;
+- Variáveis no CSS;
+- Cores HSL;
+- Animações e transições simples.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3KvNQ8SBISklsRJi60zzzZ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/3KvNQ8SBISklsRJi60zzzZ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179](https://www.figma.com/design/9jjpuNjGQl3c8qxNlfCDph/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=403-101&t=EwbA7GcW5kFofPSz-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
