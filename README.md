@@ -20,7 +20,7 @@ Projeto desenvolvido em parceria com o curso Explorer RocketSeat.
 <br>
 
 <p align="center">
-  <img alt="Blog dos Gatos" src="[./assets/capa.png](https://raw.githubusercontent.com/gist/Fabiano2022/bce7e0507af47b164a540df31c235a74/raw/9754624bcb2c4cab72241c353434edbe74aac181/Blog%20dos%20Gatos.svg)" width="100%">
+  <img alt="Blog dos Gatos" src="https://raw.githubusercontent.com/gist/Fabiano2022/bce7e0507af47b164a540df31c235a74/raw/9754624bcb2c4cab72241c353434edbe74aac181/Blog%20dos%20Gatos.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
