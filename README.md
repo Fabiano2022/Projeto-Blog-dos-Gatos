@@ -45,7 +45,7 @@ No projeto trabalhamos com:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/3KvNQ8SBISklsRJi60zzzZ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179](https://www.figma.com/design/9jjpuNjGQl3c8qxNlfCDph/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=403-101&t=EwbA7GcW5kFofPSz-0)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/9jjpuNjGQl3c8qxNlfCDph/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=403-101&t=EwbA7GcW5kFofPSz-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
