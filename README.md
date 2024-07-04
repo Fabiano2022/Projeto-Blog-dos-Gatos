@@ -20,7 +20,7 @@ Projeto desenvolvido em parceria com o curso Explorer RocketSeat.
 <br>
 
 <p align="center">
-  <img alt="Blog dos Gatos" src="./assets/capa.png" width="100%">
+  <img alt="Blog dos Gatos" src="[./assets/capa.png](https://raw.githubusercontent.com/gist/Fabiano2022/bce7e0507af47b164a540df31c235a74/raw/9754624bcb2c4cab72241c353434edbe74aac181/Blog%20dos%20Gatos.svg)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto tem como objetivo construir um Blog para treinarmos HTML e CSS.
+O projeto tem como objetivo construir um Blog responsivo para treinarmos HTML e CSS.
 
 No projeto trabalhamos com:
 - Mobile First: inicie o projeto deixando-o responsivo em telas menores para depois ajustar para uma versão desktop;
